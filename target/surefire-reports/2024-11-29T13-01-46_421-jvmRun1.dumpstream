@@ -1,0 +1,6 @@
+# Created at 2024-11-29T13:03:01.542
+Surefire is going to kill self fork JVM. The exit has elapsed 30 seconds after System.exit(0).
+
+# Created at 2024-11-29T13:03:09.791
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[[1;34mINFO[0;39m] View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/b3b062d4651e1493a864d0a250629a4700a2603c'.
+

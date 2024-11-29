@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite-OSX-Monterey-Safari-15.6
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.006 s - in TestSuite-OSX-Monterey-Safari-15.6
